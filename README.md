@@ -15,3 +15,7 @@ For any collaboration plan, please send me a email: f44006076@gmail.com
 For all modified/original codes in this repository are following License GPL ( GNU Lesser General Public License v3.0 )
 
 Author is HaoChih, LIN
+2014年11月26日发布
+
+國立成功大學航空太空工程研究所
+DAA, NCKU (Code released)
